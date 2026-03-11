@@ -23,3 +23,4 @@ else {
     
 }
 }
+// javac -d . Calculator.java
